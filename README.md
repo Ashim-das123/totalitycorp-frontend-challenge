@@ -2,9 +2,9 @@
 
 # E-commerce Front-end Project
 ### This is a front-end e-commerce project built using React, HTML, CSS, JavaScript, and React Bootstrap. It provides a user-friendly online shopping experience with the following features:
-1.The project aimed to create a frontend e-commerce website with essential shopping functionalities such as product filtering, searching, adding/removing items from the cart, and providing delivery details.
+1.The project aimed to create a frontend e-commerce website with essential shopping functionalities such as product filtering, searching, adding items to the cart and removing items from the cart, and providing delivery details.
 
-2.**Frontend Development:**  The entire project was focused on frontend development. React, a popular JavaScript library for building user interfaces, was used for creating a dynamic and interactive web application. React Bootstrap was utilized to enhance the website's UI and responsiveness.
+2.The entire project was focused on frontend development. React, a popular JavaScript library for building user interfaces, was used for creating a dynamic and interactive web application. React Bootstrap was utilized to enhance the website's UI and responsiveness.
 
 3.**Responsive Design:**  Ensuring the website works seamlessly on different devices (desktops, tablets, mobile phones) was a priority.
 
