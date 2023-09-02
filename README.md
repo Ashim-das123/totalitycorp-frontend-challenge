@@ -14,6 +14,7 @@ Shopping Cart: Users can add items to their cart, view their selections, and rem
 Checkout: Users can provide delivery details to complete the purchase.
 
 5.Demo: A live demo of the project was provided to allow users to experience the website's features without having to install it locally.
+
 ##You can check out a live demo of this project [click here](https://s-mart-ashim.netlify.app/)
 
 
